@@ -14,6 +14,7 @@
 		5926B886208AE2E70036A01C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5926B884208AE2E70036A01C /* LaunchScreen.storyboard */; };
 		5926B891208AE2E70036A01C /* A411__Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5926B890208AE2E70036A01C /* A411__Tests.swift */; };
 		5926B89C208AE2E70036A01C /* A411__UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5926B89B208AE2E70036A01C /* A411__UITests.swift */; };
+		5926B8AA208AE58A0036A01C /* tipViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5926B8A9208AE58A0036A01C /* tipViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5926B897208AE2E70036A01C /* A411小費UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "A411小費UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5926B89B208AE2E70036A01C /* A411__UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A411__UITests.swift; sourceTree = "<group>"; };
 		5926B89D208AE2E70036A01C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5926B8A9208AE58A0036A01C /* tipViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				5926B87B208AE2E50036A01C /* AppDelegate.swift */,
 				5926B87D208AE2E50036A01C /* ViewController.swift */,
 				5926B87F208AE2E50036A01C /* Main.storyboard */,
+				5926B8A9208AE58A0036A01C /* tipViewController.swift */,
 				5926B882208AE2E70036A01C /* Assets.xcassets */,
 				5926B884208AE2E70036A01C /* LaunchScreen.storyboard */,
 				5926B887208AE2E70036A01C /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				5926B87E208AE2E50036A01C /* ViewController.swift in Sources */,
 				5926B87C208AE2E50036A01C /* AppDelegate.swift in Sources */,
+				5926B8AA208AE58A0036A01C /* tipViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
